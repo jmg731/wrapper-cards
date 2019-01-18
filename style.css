@@ -1,0 +1,38 @@
+.bg-blue {
+  background:rgb(63, 63, 187);
+  color: white;
+}
+
+.bg-grey {
+  background: lightgrey;
+  color: black;
+}
+
+body {
+  text-align: center;
+}
+
+.row1height {
+  height: 25vh;
+}
+
+.row2height {
+  height: 40vh;
+}
+
+.row3height {
+  height: 35vh;
+}
+
+p {
+ line-height: 1em;
+}
+
+.card-white {
+  background: white;
+  padding: 30px;
+  box-shadow: 1px 1px 2px #e7e7e7;
+  border-radius: 4px;
+  margin: 20px 50px;
+  height: 20vh;
+}
